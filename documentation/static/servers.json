@@ -804,6 +804,17 @@
       "required": false
     }
   ]
-}
-
+},
+  {
+    "id": "the-agent-forge",
+    "name": "The Agent Forge",
+    "description": "Which AI models fall for planted traps on everyday business jobs, refereed with replays; your agent's trap card; and checks on a skill, MCP server or package before install",
+    "url": "https://theagentforge.io/mcp/public",
+    "link": "https://github.com/theagentforge/forge-mcp",
+    "installation_notes": "Remote, no sign-in. For the Gauntlet (test your own agent) add https://theagentforge.io/mcp/gauntlet as a second extension.",
+    "is_builtin": false,
+    "endorsed": false,
+    "environmentVariables": [],
+    "type": "streamable-http"
+  }
 ]
